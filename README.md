@@ -16,11 +16,11 @@ controls are in tui
 
 # goals
 
-- [x] integration with nicotine  
-- [x] toml config  
-- [x] windows and bsd support  
-- [x] get in official repos  
-- [x] create non mpv version after previously mentioned goals are finished
+- [not done] integration with nicotine  
+- [not done] toml config  
+- [not done] windows and bsd support  
+- [not done] get in official repos  
+- [not done] create non mpv version after previously mentioned goals are finished
 
 # misc 
 
