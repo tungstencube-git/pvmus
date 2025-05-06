@@ -1,2 +1,27 @@
 # pvmus
-a simple tui music player for linux using mpv
+
+a simple plug and play tui music player for linux using mpv and ncurses built fully in c
+
+# installation
+
+`git clone https://github.com/tungstencube-git/pvmus`
+`cd pvmus`
+`sudo make && sudo make install`
+
+# usage (important !!!)
+
+after running app press any key to load tui
+
+controls are in tui
+
+# goals
+
+[x] integration with nicotine
+[x] toml config
+[x] windows and bsd support
+[x] get in offical repos 
+[x] create non mpv version after previously mentioned goals are finished
+
+# misc 
+
+tested on arch linux-zen 6.14.4 x64 
