@@ -4,9 +4,9 @@ a simple plug and play tui music player for linux using mpv and ncurses built fu
 
 # installation
 
-`git clone https://github.com/tungstencube-git/pvmus`
-`cd pvmus`
-`sudo make && sudo make install`
+- `git clone https://github.com/tungstencube-git/pvmus`
+- `cd pvmus`
+- `sudo make && sudo make install`
 
 # usage (important !!!)
 
