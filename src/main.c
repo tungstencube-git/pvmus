@@ -1,3 +1,5 @@
+#include <signal.h>
+#include <sys/wait.h>
 #include "player.h"
 #include "scanner.h"
 #include "ui.h"
