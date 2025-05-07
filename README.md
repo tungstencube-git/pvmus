@@ -9,11 +9,11 @@ a simple plug and play tui music player for linux using mpv and ncurses built fu
 - `sudo make && sudo make install`
 (or just downlaod the executable)
 
-# usage (important !!!)
+# known bugs (important !!!)
 
 after running app press any key to load tui
 
-controls are in tui
+for in tui volume change to work restart song
 
 # goals
 
